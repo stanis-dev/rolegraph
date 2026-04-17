@@ -1,0 +1,4 @@
+# Claude Code per-user permission grants; shared settings live in .claude/settings.json
+.claude/settings.local.json
+
+.DS_Store
